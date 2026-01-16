@@ -10,10 +10,10 @@ body{
 header{
 background-color: #011e29;
 color: white;
-      text-align: center;
-      padding: 20px;
-      font-size: 24px;
-      font-weight: bold;
+text-align: center;
+padding: 20px;
+font-size: 24px;
+font-weight: bold;
 }
 
   .container {
@@ -27,8 +27,8 @@ color: white;
     .latest-news-section {
       background-color: #ffffff;
       padding: 20px;
-      width: 20%;
-      border-radius: 10px;
+      width: 25%;
+      border-radius: 15px;
     }
 
     .latest-news-section h3 {
@@ -62,7 +62,7 @@ color: white;
     .pictorial-news-section {
       background-color: #ffffff;
       padding: 20px;
-      width: 20%;
+      width: 25%;
       text-align: center;
       border-radius: 10px;
     }
